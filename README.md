@@ -1,4 +1,6 @@
 <h1 align="center">SHUBHAM SRIVASTAV 🥷🏻</h1>
+<h4 align="center"> Make sure you know what's inside the box before trying to think
+outside of it.🏻</h4>
 
 - 🔭 I’m currently working on MERN and React Native
 - 🌱 I’m currently learning Data Structure and Algorithms 
