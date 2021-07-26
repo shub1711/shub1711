@@ -1,6 +1,6 @@
 ### SHUBHAM SRIVASTAV 🥷🏻
 
-- 🔭 I’m currently working on MERN
+- 🔭 I’m currently working on MERN and React Native
 - 🌱 I’m currently learning Data Structure and Algorithms 
 - 👯 I’m looking to collaborate on any project which is based on technology i have learned.
 - 📫 How to reach me: Mail Linkdin Instagram
