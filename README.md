@@ -1,4 +1,4 @@
-### SHUBHAM SRIVASTAV 🥷🏻
+<h1 align="center">SHUBHAM SRIVASTAV 🥷🏻</h1>
 
 - 🔭 I’m currently working on MERN and React Native
 - 🌱 I’m currently learning Data Structure and Algorithms 
