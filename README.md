@@ -44,19 +44,5 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q)
-
----
-  
-
-
-## Connect With Me
-<!-- <a href="https://www.instagram.com/" target="_blank"><img align="left" alt="Instagram" width="100px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" /></a> -->
-<!-- <a href="https://www.kaggle.com/" target="_blank"><img align="left" alt="Kaggle" width="85px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" /></a> -->
-<a href="https://www.linkedin.com/in/saurabhsriv19/" target="_blank"><img align="left" alt="LinkedIn" width="100px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" /></a>
-<a href="https://www.google.com/search?q=google+mail&rlz=1C1RLNS_enIN917IN917&oq=google+mail&aqs=chrome..69i57j0j0i20i263j0i433j0j0i20i263j0l4.3181j0j15&sourceid=chrome&ie=UTF-8" target="_blank"><img align="left" alt="gmail" width="85px" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" /></a>
-<!-- <a href="https://twitter.com/" target="_blank"><img align="left" alt="twitter" width="85px" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_400px.gif" /></a> -->
 
 <br>
